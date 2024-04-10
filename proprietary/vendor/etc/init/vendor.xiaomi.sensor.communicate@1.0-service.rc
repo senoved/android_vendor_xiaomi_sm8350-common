@@ -3,3 +3,5 @@ service vendor.xiaomi.sensor.communicate  /vendor/bin/hw/vendor.xiaomi.sensor.co
     user system
     group system
     disabled
+    disabled
+    disabled
