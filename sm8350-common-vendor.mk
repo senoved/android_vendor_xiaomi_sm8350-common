@@ -661,9 +661,9 @@ PRODUCT_PACKAGES += \
     IWlanService \
     SoterService \
     TimeService \
+    HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
+    HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
     PowerOffAlarm \
-    HotwordEnrollmentOKGoogleHEXAGON \
-    HotwordEnrollmentXGoogleHEXAGON \
     QtiTelephonyService \
     dpmserviceapp \
     ims \
